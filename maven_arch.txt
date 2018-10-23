@@ -1,2 +1,0 @@
-mvn archetype:generate -DarchetypeGroupId=de.rieckpil.archetypes -DarchetypeArtifactId=javaee8 -DarchetypeVersion=1.0.1 -DgroupId=at.htl.berge -DartifactId=MicroProfile
-mvn archetype:generate -DarchetypeGroupId=de.rieckpil.archetypes -DarchetypeArtifactId=javaee8 -DarchetypeVersion=1.0.1 -DgroupId=at.htl.berge -DartifactId=MicroProfile -DinteractiveMode=false
